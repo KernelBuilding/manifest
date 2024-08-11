@@ -3,4 +3,4 @@
 ---------------
 
 
-### [Guide](https://shrp-reborn.github.io/#/guide) to Build SHRP Reborn
+### [Guide](https://shrp-reborn.github.io/docs/#/) to Build SHRP Reborn
