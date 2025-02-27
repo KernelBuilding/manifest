@@ -13,7 +13,7 @@ cd SHRP
 
 ### Sync our source ###
 ```bash
-repo init -u https://github.com/KernelBuilding/manifest.git -b shrp-12.1
+repo init -u https://github.com/KernelBuilding/shrp_manifest.git -b shrp-12.1
 ```
 ```bash
 repo sync -c -j$(nproc --all) --force-sync --no-clone-bundle --no-tags
